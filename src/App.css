@@ -1,5 +1,10 @@
+#root{
+  height: 100vh;
+}
 .App {
   text-align: center;
+  /*background: black;
+  height: 1000px;*/
 }
 
 .App-logo {
